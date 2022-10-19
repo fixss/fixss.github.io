@@ -1,3 +1,3 @@
-# fixss.githubi.io
+# fixss.github.io
 bp-messenger-snippet!
 
